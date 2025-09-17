@@ -33,4 +33,4 @@ project-folder/
 👉 [Add your deployed project link here]  
 
 ## 👨‍💻 Author
-Built by **[Your Name]**
+Built by **[Joshua Nuru]**
