@@ -30,7 +30,7 @@ project-folder/
 └── README.md           # Documentation  
 
 ## 📌 Live Demo
-👉 [Add your deployed project link here]  
+👉 [https://montelnurujosh.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/]  
 
 ## 👨‍💻 Author
 Built by **[Joshua Nuru]**
